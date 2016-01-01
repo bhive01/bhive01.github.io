@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Brandon Hurr Pages.IO launch"
+title: "Pages.IO launch"
 date: 2014-04-30
 ---
 
