@@ -1,1 +1,4 @@
-name:Brandon Hurr, Postharvest Physiologist \n markdown:kramdown
+name:Brandon Hurr, Postharvest Physiologist
+markdown:kramdown
+
+permalink: /blog/:year/:month/:day/:title
