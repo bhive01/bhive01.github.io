@@ -1,3 +1,5 @@
 name: Brandon Hurr, Postharvest Physiologist
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+plugins:
+  - jekyll-sitemap
